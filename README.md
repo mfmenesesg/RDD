@@ -1,2 +1,2 @@
 # RDD
-RDD files - part os assignment 4
+RDD files - part of assignment 4
